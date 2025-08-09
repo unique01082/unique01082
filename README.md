@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   
-  ### 👨‍💻 Software Developer | 📸 Photographer (+0.3 EV) | 🎮 FPS Enthusiast
+  ### 👨‍💻 Software Developer | 📸 Photographer | 🎮 FPS Enthusiast
   
   *Making the web a better place, one commit at a time*
   
@@ -29,12 +29,6 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 - � **FPS Gaming** - Competitive matches and clutch moments
 - 🎵 **Post-rock Music** - Coding sessions powered by instrumental epicness
 
-**Currently working on:**
-- Building modern Web applications
-- Contributing to open-source projects  
-- Developing a photography portfolio
-- Overexposing photos by +0.3 EV (it's a lifestyle choice)
-
 **My philosophy:** *"In code we trust, in games we clutch, in photos we overexpose (+0.3 EV)"* ✨
 
 
@@ -44,7 +38,6 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 - 📸 **Photographer** - Capturing moments with a +0.3 EV bias (because life needs more light!)
 - 🎮 **FPS Gamer** - When not coding, you'll find me in competitive matches
 - 🎵 **Post-rock Enthusiast** - Coding to instrumental masterpieces
-
 
 <div align="center">
 
@@ -75,11 +68,11 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 - **📁 [Folder Structure Sync](https://github.com/unique01082/folder-structure-sync)**  
   *CLI tool for smart folder synchronization*
   
-- **🌐 React Portfolio**  
-  *Showcasing projects with modern design*
+- **📝 [Lightmark](https://github.com/unique01082/lightmark)**  
+  *Photography-style notepad*
   
-- **📸 Photography Website**  
-  *Gallery with that perfect +0.3 EV exposure*
+- **📸 [Lightdrift](https://github.com/unique01082/lightdrift)**  
+  *RAW image viewer*
 
 ### 🎓 Learning Journey
 - Advanced React patterns & hooks
