@@ -149,24 +149,6 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bao.lq.it@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your-steam)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unique01082&bg_color=1a1b27&color=be90f2&line=638fda&point=35b9ab&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/unique01082)
 
 </div>
