@@ -24,20 +24,10 @@
 I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 
 **What I'm passionate about:**
-- 💻 **Web Development** - Building amazing applications with React and TypeScript
+- 💻 **Web Development** - Building amazing applications with React and TypeScript, crafting digital experiences with modern technologies
 - 📸 **Photography** - Don't look at my 📸. I'm a cheerful, optimistic, sociable person. Capturing life with a +0.3 EV bias (because optimism!)
-- � **FPS Gaming** - Competitive matches and clutch moments
-- 🎵 **Post-rock Music** - Coding sessions powered by instrumental epicness
 
 **My philosophy:** *"In code we trust, in games we clutch, in photos we overexpose (+0.3 EV)"* ✨
-
-
-## 🎯 What I Do
-
-- 💻 **Web Developer** - Crafting digital experiences with modern technologies
-- 📸 **Photographer** - Capturing moments with a +0.3 EV bias (because life needs more light!)
-- 🎮 **FPS Gamer** - When not coding, you'll find me in competitive matches
-- 🎵 **Post-rock Enthusiast** - Coding to instrumental masterpieces
 
 <div align="center">
 
@@ -101,6 +91,7 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 - 🤝 **Collaboration**: Love working with others to build amazing things
 - 🧠 **Deep Learning**: Not just ML - I mean really understanding how things work
 - 😄 **Personality Paradox**: Cheerful IRL
+- 😄 **FPS Gaming** - When not coding, you'll find me in competitive matches
 
 ## 🎭 Meme Collection (Because Why Not?)
 
