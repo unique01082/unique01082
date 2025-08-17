@@ -7,8 +7,6 @@
   
   *Making the web a better place, one commit at a time*
   
-  <img src="https://komarev.com/ghpvc/?username=unique01082&label=Profile%20views&color=0e75b6&style=flat" alt="unique01082" />
-  
 </div>
 
 # Hey there! 👋
@@ -134,5 +132,5 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/unique01082)
-
+<img src="https://komarev.com/ghpvc/?username=unique01082&label=Profile%20views&color=0e75b6&style=flat" alt="unique01082" />
 </div>
