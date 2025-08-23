@@ -76,7 +76,7 @@ I'm **Bao LE**, a web developer based in **Ho Chi Minh City, Vietnam** 🇻🇳
 🎧 Currently vibing to:
    ~ A wild river to take you home
    ~ Hidden Valley
-   ∿ Godspeed You! Black Emperor
+   ∿ A Gallant Gentleman
    ∿ Explosions in the Sky  
    ∿ This Will Destroy You
    ∿ Mono
