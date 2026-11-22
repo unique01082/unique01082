@@ -57,6 +57,16 @@ The work spans creative and photography tools, everyday productivity, AI-assiste
 - Open-source reusable foundations when they can help other builders.
 - Care about reliability, accessibility, and the small details users notice.
 
+## Where baole.space is heading
+
+My bet is that the next generation of software will be used by people and AI agents side by side, and that small, focused products win when they share strong foundations. This year, the priorities are clear:
+
+- **One platform, many products.** A single identity, plan, and AI credit system across the ecosystem, so every new product launches with accounts, billing, and quotas already solved.
+- **Agent-ready by design.** Every product exposes its capabilities through MCP, so AI agents can work with real data under the same permissions and accountability as people.
+- **A brand people remember.** A consistent product language, design system, and quality bar, so the ecosystem feels like one company rather than a set of side projects.
+
+The goal is not to build more apps. It is to build a compounding platform where each product makes the next one faster, cheaper, and better.
+
 ## Open to collaboration
 
 I am open to working with clients building products or internal tools, technical partners interested in the baole.space ecosystem, open-source maintainers and contributors, and teams looking for a product-minded software engineer.
